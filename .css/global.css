@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px black solid;
+    margin-bottom: 20px;
+}
+
+.exit-arrow{
+    position: fixed;
+    top: 15px;
+    right: 15px;
+    z-index: 1000;
+    text-decoration: none;
+    color: black;
+    transition: color 0.15s;
+}
+
+.exit-arrow:hover{
+    color: #555;
+}
