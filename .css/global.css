@@ -1,16 +1,11 @@
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    margin: 0;
-}
 
 .header{
     display: flex;
     flex-direction: row;
     border-bottom: 1px black solid;
     margin-bottom: 20px;
+
+    
 }
 
 .exit-arrow{

@@ -2,6 +2,12 @@
   navigation: auto;
 }
 
+body{
+    flex-direction: column;
+}
+
+
+
 
 .header{
     border-bottom: 1px #555 solid;
