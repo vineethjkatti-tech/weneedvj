@@ -1,0 +1,64 @@
+.header{
+    display: flex;
+    flex-direction: row;
+}
+
+.header-text{
+    font-family: league gothic, courier, monospace;
+    font-size: 70px;
+    margin: 0;
+}
+
+.header-textbox{
+
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    z-index: 1000;
+}
+
+.exit-arrow-text{
+    font-family: league gothic, courier, monospace;
+    font-size: 24px;
+    margin: 0;
+    transition: color 0.15s;
+    color: black;
+    text-decoration: none;
+}
+
+.exit-arrow{
+    position: fixed;
+    top: 15px;
+    right: 15px;
+    z-index: 1000;
+    text-decoration: none;
+    color: black;
+    transition: color 0.15s;
+}
+
+.exit-arrow:hover{
+    color: #555;
+}
+
+.sec-header-text{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.sec-header{
+    border-bottom: #7a7878 1px solid;
+    width: 500px;
+}
+
+.sec-text{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+.sec-content{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
