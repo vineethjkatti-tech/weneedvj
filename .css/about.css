@@ -59,7 +59,7 @@ body{
 }
 
 .header{
-    border-bottom: 1px black solid;
+    border-bottom: 2px black solid;
 }
 
 .sec-header-text{
@@ -105,4 +105,37 @@ body{
     margin-left: 500px;
     gap: 100px;
 }
+
+.site-footer{
+    border-top: 2px black solid;
+    margin-top: 60px;
+    padding: 25px 45px;
+    font-family: "Courier New", Courier, monospace;
+}
+
+#feedback-form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 400px;
+}
+
+#feedback-form textarea{
+    min-height: 100px;
+    resize: vertical;
+}
+
+#feedback-form input,
+#feedback-form textarea,
+#feedback-form button{
+    font: inherit;
+    padding: 8px;
+    border: 1px solid black;
+}
+
+#feedback-form button:hover{
+    background: black;
+    color: white;
+}
+
 

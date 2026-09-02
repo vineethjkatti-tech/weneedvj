@@ -169,5 +169,34 @@
 
     </section>
 </main>
+
+<footer class="site-footer">
+    <h2>Feedback</h2>
+
+    <form id="feedback-form">
+        <label for="message">What do you think of the site??</label>
+
+        <textarea 
+            id="message"
+            name="message"
+            maxlength="500"
+            required
+        ></textarea>
+        
+        <input
+            type="email"
+            name="email"
+            placeholder="Email (optional)"
+        >
+        
+        
+        <button type="submit">Send Feedback</button>
+        <p id="feedback status" aria-live="polite"></p>
+    </form>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="../.js/feedback.js"></script>
+
 </body>
 </html>
