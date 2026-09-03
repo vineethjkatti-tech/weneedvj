@@ -5,6 +5,7 @@
     { "source": "/contact", "destination": "/.html/contact.html" },
     { "source": "/home", "destination": "/.html/index.html"},
     { "source": "/iplanter", "destination": "/.html/iplanter.html"},
-    { "source": "/ATTN_unit", "destination": "/.html/ATTN_unit.html"}
+    { "source": "/ATTN_unit", "destination": "/.html/ATTN_unit.html"},
+    { "source": "/", "destination": "/.html/index.html" }
   ] 
 }
