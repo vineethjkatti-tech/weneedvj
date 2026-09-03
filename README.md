@@ -2,7 +2,8 @@
 
 ## Overview
 
-<img width="959" height="451" alt="image" src= "C:\Users\vinee\Downloads\weenedvj.png" />
+<img width="1920" height="1080" alt="weenedvj" src="https://github.com/user-attachments/assets/5e11bb3a-2ea0-43a3-8194-38e7ada082d1" />
+
 
 This project is my **first website**! and also happens to be my **personal website**.
 Its just a **static website** where I have only used **html and css** except for **rewrites** and for **Backend Integration**, which is inspired by many other personal websites (from people on horizons btw).
