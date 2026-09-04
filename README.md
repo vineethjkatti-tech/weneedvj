@@ -38,6 +38,23 @@ npm run build
 ## Deployment URL
 https://weneedvj.vercel.app
 
+## Re-Ship Details
+1. Cleaned the code and added meta-tags.
+
+2. Added New files (iplanter.html, ATTN_unit) to interface between GitHub and project, like a details page for the projects.
+
+3. Added **Rewrites** for webpage URls.
+
+4. Added a **Feedback Form** in the Footer of About Page. 
+
+5. Also Integrated the Feedback Form to **Supabase Backend**.
+
+6. Created feedback.js for **Backend Integration**.
+
+
+
+
+
 ## Notes 
 **1. I have used about 15-20 percent AI to Debug Code and Edit Code when I got stuck.**
 
