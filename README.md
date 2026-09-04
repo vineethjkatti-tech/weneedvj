@@ -61,3 +61,7 @@ https://weneedvj.vercel.app
 **2. This website is not yet responsive in mobile and other devices except a computer.**
 
 **3. Re-Ship AI Usage is only about 2-3 % which DOES NOT INVOLVE CODE EDITING. I have only used AI for queries.**
+
+
+
+# Make Sure To Leave A Feedback if you're visiting!!
